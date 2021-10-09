@@ -6,7 +6,7 @@
 <p>There is also a live chat for customer support.</p>
 ***MySQL database is included and required for the app to work.***
 
-# Technologies Used
+# Tools Used
 * DataTables (Admin Stock Page, Admin Orders Page)
 * Twilio (SMS API)
 
